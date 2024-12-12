@@ -16,9 +16,5 @@ UserSettings/
 # Unity Package Manager
 /Packages/Packages-lock.json
 
-# .csproj and .sln files (optional)
-*.csproj
-*.sln
-
 # Ignore other files
 UpgradeLog.htm
