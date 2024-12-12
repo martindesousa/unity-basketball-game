@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI%20Elements/textStyle.uss?fileID=7433441132597879392&amp;guid=0c733832c8463fc4f9d30f4876e79905&amp;type=3#textStyle" />
+    <ui:VisualElement style="flex-grow: 1; width: 288px; background-color: rgba(53, 53, 53, 0.73);">
+        <ui:Button text="Play League" parse-escape-sequences="true" display-tooltip-when-elided="true" name="open_league_menu" style="width: 198px; align-items: auto; white-space: nowrap; align-self: center; background-color: rgb(214, 157, 157); -unity-font: initial; position: absolute; top: 20px;" />
+    </ui:VisualElement>
+</ui:UXML>

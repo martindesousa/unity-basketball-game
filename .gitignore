@@ -1,0 +1,24 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+UserSettings/
+
+# Build results
+/Build/
+
+# User-specific files
+.vs/
+.vsconfig
+.idea/
+
+# Unity Package Manager
+/Packages/Packages-lock.json
+
+# .csproj and .sln files (optional)
+*.csproj
+*.sln
+
+# Ignore other files
+UpgradeLog.htm

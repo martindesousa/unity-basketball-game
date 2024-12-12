@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f9970bb9647ce51409dea58143476968
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - leagueItemPrefab: {instanceID: 0}
+  - addItemPrefab: {instanceID: 0}
+  - contentPanel: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bdf6a56f20dfccd49bb324de9475afb2, type: 3}
+  m_Name: KlayThompsonShot
+  m_EditorClassIdentifier: 
+  animationName: KlayThompsonShot
+  bodyPartRotationsList:
+  - partName: Banana Man
+    eulerAngles: {x: 0, y: -20, z: 0}
+  - partName: Head
+    eulerAngles: {x: -39.2, y: 25.5, z: -12}
+  - partName: Left Foot
+    eulerAngles: {x: 5.5, y: -10.59, z: -73.5}
+  - partName: Right Foot
+    eulerAngles: {x: 5.5, y: -16.45, z: -70}
+  - partName: Left Arm
+    eulerAngles: {x: -6.17, y: -131.61, z: -95.62}
+  - partName: Right Arm
+    eulerAngles: {x: 75, y: 6.7, z: 42.84}
+  - partName: Left Forearm
+    eulerAngles: {x: 54.41, y: 152.95, z: 6.06}
+  - partName: Right Forearm
+    eulerAngles: {x: 38.06, y: -131.21, z: -59.32}
+  - partName: Left Hand
+    eulerAngles: {x: 8.2, y: 28.22, z: -6.2}
+  - partName: Right Hand
+    eulerAngles: {x: -3.35, y: 99.99, z: 75.31}
